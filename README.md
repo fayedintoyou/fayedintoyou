@@ -16,4 +16,6 @@ The basic idea is that useful context should be inspectable, reviewable, and abl
 
 It’s also where I’m experimenting with a broader question I keep coming back to: **what should we make deterministic, and what should we leave to the model?**
 
+More at [fayelore.com](https://fayelore.com).
+
 I like computers.
