@@ -10,14 +10,8 @@ Here to figure out how much the structure around the model actually helps, what 
 
 ## Context Kit
 
-I’m currently building [Context Kit](https://github.com/fayedintoyou/context-kit), a Git-backed way to give agents durable context and working methods across projects.
+I’m currently building [Context Kit](https://fayelore.com/#context-kit), a Git-backed way to give agents durable context and working methods across projects.
 
-It grew out of lessons from my own personal development workflows, experiments at work, and patterns I’ve seen from other people building agentic systems.
-
-The basic idea is that useful context should be inspectable, reviewable, and able to evolve alongside the work. Rather than treating context as one enormous prompt, an opaque retrieval layer, or a pile of ever-growing skills, Context Kit organizes it into small, navigable hubs that agents can progressively browse and read as needed.
-
-The same system can carry working methods, skills, specifications, provenance, trust, and freshness signals without turning them into hidden state.
-
-It’s also where I’m experimenting with a broader question I keep coming back to: **where is the proper boundary between deterministic actions and opionated (human guided) orchestration, versus what should we leave to ever more powerful models?**
+It grew out of lessons from my own personal development workflows, experiments at work, and patterns I’ve seen from other people building agentic systems, and also where I’m experimenting with a broader question I keep coming back to: **where is the proper boundary between deterministic actions and opionated (human guided) orchestration, versus what should we leave to ever more powerful models?**
 
 More at [fayelore.com](https://fayelore.com) · [faye@fayelore.com](mailto:faye@fayelore.com)
