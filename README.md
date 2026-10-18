@@ -10,7 +10,7 @@ Here to figure out how much the structure around the model actually helps, what 
 
 ## Context Kit
 
-I’m currently building [Context Kit](https://fayelore.com/#context-kit), a Git-backed way to give agents durable context and working methods across projects.
+I’m currently building [Context Kit](https://fayelore.com/#context-kit),  a portable & decoupled context layer for agents that lets project knowledge and working methods persist across tools, models, and applications, rather than living inside any one of them.
 
 It grew out of lessons from my own personal development workflows, experiments at work, and patterns I’ve seen from other people building agentic systems, and also where I’m experimenting with a broader question I keep coming back to: **where is the proper boundary between deterministic actions and opionated (human guided) orchestration, versus what should we leave to ever more powerful models?**
 
