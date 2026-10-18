@@ -12,6 +12,6 @@ Here to figure out how much the structure around the model actually helps, what 
 
 I’m currently building [Context Kit](https://fayelore.com/#context-kit),  a portable & decoupled context layer for agents that lets project knowledge and working methods persist across tools, models, and applications, rather than living inside any one of them.
 
-It grew out of lessons from my own personal development workflows, experiments at work, and patterns I’ve seen from other people building agentic systems, and also where I’m experimenting with a broader question I keep coming back to: **where is the proper boundary between deterministic actions and opionated (human guided) orchestration, versus what should we leave to ever more powerful models?**
+It grew out of lessons from my own personal development workflows where i've moved between different harnesses and orchestration layers, experiments at work with knowledge management, and patterns I’ve seen from other people building agentic systems, and also where I’m experimenting with a broader question I keep coming back to: **where is the proper boundary between deterministic actions and opionated (human guided) orchestration, versus what should we leave to ever more powerful models?**
 
 More at [fayelore.com](https://fayelore.com) · [faye@fayelore.com](mailto:faye@fayelore.com)
